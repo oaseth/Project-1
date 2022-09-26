@@ -1,0 +1,14 @@
+#map { height: calc(100vh - 66px) }
+
+
+#coordinate{
+	position: absolute;
+	left: 45%;
+	background:#fff;
+	z-index: 999999;
+	bottom: 0;
+	padding: 3px;
+	border: 5px solid;
+	font-family: arial;
+	font-size: 15px;
+	}
